@@ -1,4 +1,4 @@
-// +build !linux_arm
+// +build !linux,arm
 
 package gpio
 
